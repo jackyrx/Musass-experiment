@@ -1,5 +1,7 @@
 # Musass-experiment
 
+Remarks: Repository (Coming Soon)
+
 AI 聽到聲音時，會聯想到乜嘢？
 
 幾個月前，我問咗自己一個問題：如果我哋唔再叫 AI 模型「描述」音頻，而係問佢「聯想到啲乜嘢」，會發生咩事？
